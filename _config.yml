@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://vickytnz.github.io/so-simple-theme/
+url:              http://vickytnz.github.io/so-simple-theme
 
 # Owner/author information
 owner:
